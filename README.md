@@ -51,7 +51,7 @@ modules/pbxadmin/themes/default/
 
 4. **Recarga el navegador** con `Ctrl + F5` en **PBX → Configuración PBX**.
 
-## 📝 Notas
+## Notas
 
 - Si actualizas Issabel con `yum update issabel-pbx`, el paquete oficial puede sobreescribir estos archivos; conserva este repositorio para volver a aplicarlos fácilmente.
 - Los textos que aparezcan en inglés dentro de algunos submódulos provienen de los diccionarios `.mo` propios de cada módulo en `admin/modules/<modulo>/i18n/` y no se alteran desde este tema.
